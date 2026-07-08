@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drazen-test-site.vercel.app/sitemap.xml
