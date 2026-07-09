@@ -1,7 +1,0 @@
-# Home
-> Home Home About Services Kova Coaching Coaching that actually moves the needle Kova Coaching helps online business owner
-
-- https://drazen-test-site.vercel.app
-- https://drazen-test-site.vercel.app/
-- https://drazen-test-site.vercel.app/about.html
-- https://drazen-test-site.vercel.app/services.html
